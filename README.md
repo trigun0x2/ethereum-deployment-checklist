@@ -22,3 +22,5 @@ use case.
 - [ ] Verify code on Etherscan (optional)
 - [ ] Launch official Dapp
 - [ ] Launch PR (blog, twitter, etc.)
+
+Feel free to make PRs for things I may have missed.
