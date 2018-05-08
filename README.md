@@ -4,6 +4,10 @@ Create a list of important tasks and gotchas to check for before launching a
 smart contract. This is not meant to be a security guide.
 This is a generic guide and does not cover cases specific to each contract’s
 use case.
+
+
+Feel free to make PRs for things I may have missed.
+
 ## Checklist
 ### Code complete
 - [ ] Lock in compiler version
@@ -22,5 +26,3 @@ use case.
 - [ ] Verify code on Etherscan (optional)
 - [ ] Launch official Dapp
 - [ ] Launch PR (blog, twitter, etc.)
-
-Feel free to make PRs for things I may have missed.
