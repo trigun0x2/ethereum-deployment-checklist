@@ -10,19 +10,20 @@ Feel free to make PRs for things I may have missed.
 
 ## Checklist
 ### Code complete
-- [ ]  Lock in compiler version
-- [ ]  Lock in dependency versions (npm modules)
-- [ ]  Lock in truffle version
-- [ ]  Internal code audit
-- [ ]  3rd party code audit
+- [ ] Lock in compiler version
+- [ ] Lock in dependency versions (npm modules)
+- [ ] Lock in truffle version
+- [ ] Internal code audit
+- [ ] 3rd party code audit
 ### Testnet deployed
-- [ ]  Release beta Dapp (if needed)
-- [ ]  Test gas usage for each function
-- [ ]  Make changes (if needed)
-- [ ]  Record release version of code (commit hash)
-- [ ]  Record compiled bytecode
-- [ ]  Record compiler version
+- [ ] Release beta Dapp (if needed)
+- [ ] Test gas usage for each function
+- [ ] Make changes (if needed)
+- [ ] Record release version of code (commit hash)
+- [ ] Record compiled bytecode
+- [ ] Record compiler version
 ### Mainnet deployed
-- [ ]  Verify code on Etherscan (optional)
-- [ ]  Launch official Dapp
-- [ ]  Launch PR (blog, twitter, etc.)
+- [ ] Verify code on Etherscan (optional)
+- [ ] Launch official Dapp
+- [ ] Submit Dapp to index sites (Dappradar, etc.)
+- [ ] Launch PR (blog, twitter, etc.)
